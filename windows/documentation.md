@@ -1,8 +1,8 @@
-# Janela Documentation
+# Documentation
 
 ## Descrição
 
-A janela mostra a documentação da sintaxe escolhida nas configurações.
+Mostra a documentação da sintaxe escolhida nas [configurações](settings.md).
 
 ## Estrutura
 

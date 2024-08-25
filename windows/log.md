@@ -2,9 +2,9 @@
 
 ## Descrição
 
-A janela `Log` contém a saída do emulador, mostrando possíveis erros gerados por erros no código.
+Contém a saída do emulador, mostrando possíveis erros gerados por erros no código.
 
-## Tipos de erros reportados 
+## Erros 
 
 - **Erros de Sintaxe**: indicados quando há um erro de escrita no código
 - **Erros de Semântica**: ocorrências em que a instrução está correta sintaticamente, mas é logicamente inválida
